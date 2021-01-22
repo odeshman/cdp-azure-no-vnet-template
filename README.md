@@ -1,0 +1,1 @@
+# cdp-azure-no-vnet-template
